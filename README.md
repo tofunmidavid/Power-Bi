@@ -1,2 +1,2 @@
 # Power-Bi
-A visualization dashboard about company
+Creating for HR a report dashboard using Power BI
